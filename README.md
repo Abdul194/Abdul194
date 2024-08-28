@@ -20,7 +20,15 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 #### Connect with me
 <div>
   <a href="" >
-    <img src="web.png" alt="Website Icon">
+    <img src="web.PNG" alt="Website Icon">
+  </a>
+
+  <a href="" >
+    <img src="youtube.PNG" alt="Website Icon">
+  </a>
+
+  <a href="" >
+    <img src="link.PNG" alt="Website Icon">
   </a>
 </div>
 
