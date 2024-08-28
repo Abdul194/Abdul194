@@ -32,7 +32,7 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
   </a>
 
   <a href="" >
-    <img src="img/Instagram.png">
+    <img src="img/instagram.png">
   </a>
 
   <a href="" >
@@ -44,7 +44,7 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
   </a>
 
   <a href="" >
-    <img src="img/Telegram.png">
+    <img src="img/telegram.png">
   </a>
 </div>
 
