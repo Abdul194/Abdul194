@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div style="width: 100%; overflow: hidden;">
-  <img src="1.jpg" alt="Banner" style="width: 100%; height: auto; display: block; object-fit: cover;"/>
+  <img src="img/1.jpg" alt="Banner" style="width: 100%; height: auto; display: block; object-fit: cover;"/>
 </div>
 
 ## 🚀 About Me
@@ -20,37 +20,33 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 #### Connect with me
 <div>
   <a href="" >
-    <img src="LinkedIn2.png" alt="Website Icon">
+    <img src="img/web.png">
   </a>
 
   <a href="" >
-    <img src="twitter.png" alt="Website Icon" width=100in>
+    <img src="img/Youtube.png">
   </a>
 
   <a href="" >
-    <img src="LinkedIn.png" alt="Website Icon">
+    <img src="img/LinkedIn.png">
+  </a>
+
+  <a href="" >
+    <img src="img/Instagram.png">
+  </a>
+
+  <a href="" >
+    <img src="img/Threads.png">
+  </a>
+
+  <a href="" >
+    <img src="img/Twitter.png">
+  </a>
+
+  <a href="" >
+    <img src="img/Telegram.png">
   </a>
 </div>
-
-<div style="display: flex; align-items: center; padding: 10px;"></div>
-[![Website Icon](https://img.icons8.com/ios-filled/20/000000/domain.png) <span>Website</span>](https://yourwebsite.com)
-
-<div style="display: flex; align-items: center; margin: 0 15px;"><span style="font-size: 20px; color: #ccc;">•</span></div>
-
-[![YouTube Icon](https://img.icons8.com/ios-filled/20/FF0000/youtube-play.png) <span>YouTube</span>](https://youtube.com/yourchannel) 
-
-<div style="display: flex; align-items: center; margin: 0 15px;"><span style="font-size: 20px; color: #ccc;">•</span></div>
-
-[![LinkedIn Icon](https://img.icons8.com/ios-filled/20/0077B5/linkedin.png) <span>LinkedIn</span>](https://www.linkedin.com/in/yourprofile) 
-
-<div style="display: flex; align-items: center; margin: 0 15px;"><span style="font-size: 20px; color: #ccc;">•</span></div>
-
-[![Instagram Icon](https://img.icons8.com/ios-filled/20/E4405F/instagram-new.png) <span>Instagram</span>](https://instagram.com/yourprofile) 
-
-<div style="display: flex; align-items: center; margin: 0 15px;"><span style="font-size: 20px; color: #ccc;">•</span></div>
-
-[![Twitter Icon](https://img.icons8.com/ios-filled/20/1DA1F2/twitter.png) <span>Twitter</span>](https://twitter.com/yourusername) </div>
-
 
 #### <span style="">Connect with me</span>
 
