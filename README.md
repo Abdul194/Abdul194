@@ -22,26 +22,32 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
   <a href="" >
     <img src="img/web.png">
   </a>
-
+  <img src="img/dot.png">
+  
   <a href="" >
     <img src="img/Youtube.png">
   </a>
+  <img src="img/dot.png">
 
   <a href="" >
     <img src="img/LinkedIn.png">
   </a>
+  <img src="img/dot.png">
 
   <a href="" >
     <img src="img/instagram.png">
   </a>
+  <img src="img/dot.png">
 
   <a href="" >
     <img src="img/Threads.png">
   </a>
+  <img src="img/dot.png">
 
   <a href="" >
     <img src="img/Twitter.png">
   </a>
+  <img src="img/dot.png">
 
   <a href="" >
     <img src="img/telegram.png">
