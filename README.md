@@ -48,10 +48,7 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
     <img src="img/Twitter.png">
   </a>
   <img src="img/dot.png">
-
-  <a href="" >
-    <img src="img/telegram.png">
-  </a>
+  
 </div>
 
 #### <span style="">Connect with me</span>
