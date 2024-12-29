@@ -56,7 +56,7 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 
 <!-- Technology Icons Section -->
 <div>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="width: 80px; height: 35px; border-radius: 5px;"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="width: 70px; height: 30px; border-radius: 5px;"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="width: 60px; height: 25px; border-radius: 5px;"/>
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="width: 60px; height: 25px; border-radius: 5px;"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" style="width: 60px; height: 25px; border-radius: 5px;"/>
