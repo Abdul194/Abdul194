@@ -92,41 +92,6 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 </table>
 
 
-<div style="display: flex; align-items: center; padding: 10px;">
-  <a href="https://yourwebsite.com" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/20/000000/domain.png" alt="Website Icon" style="vertical-align: middle; margin-right: 8px;"/>
-    <span>Website</span>
-  </a>
-  <div style="display: flex; align-items: center; margin: 0 15px;">
-    <span style="font-size: 20px; color: #ccc;">&#8226;</span>
-  </div>
-  <a href="https://youtube.com/yourchannel" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/20/FF0000/youtube-play.png" alt="YouTube Icon" style="vertical-align: middle; margin-right: 8px;"/>
-    <span>YouTube</span>
-  </a>
-  <div style="display: flex; align-items: center; margin: 0 15px;">
-    <span style="font-size: 20px; color: #ccc;">&#8226;</span>
-  </div>
-  <a href="https://www.linkedin.com/in/yourprofile" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png" alt="LinkedIn Icon" style="vertical-align: middle; margin-right: 8px;"/>
-    <span>LinkedIn</span>
-  </a>
-  <div style="display: flex; align-items: center; margin: 0 15px;">
-    <span style="font-size: 20px; color: #ccc;">&#8226;</span>
-  </div>
-  <a href="https://instagram.com/yourprofile" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/20/E4405F/instagram-new.png" alt="Instagram Icon" style="vertical-align: middle; margin-right: 8px;"/>
-    <span>Instagram</span>
-  </a>
-  <div style="display: flex; align-items: center; margin: 0 15px;">
-    <span style="font-size: 20px; color: #ccc;">&#8226;</span>
-  </div>
-  <a href="https://twitter.com/yourusername" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/20/1DA1F2/twitter.png" alt="Twitter Icon" style="vertical-align: middle; margin-right: 8px;"/>
-    <span>Twitter</span>
-  </a>
-</div>
-
 
 ## 💻 Tech Stack
 <!-- Technology Icons Section -->
