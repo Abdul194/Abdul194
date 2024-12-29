@@ -53,135 +53,95 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 
 
 ## 💻 Tech Stack
+
 <!-- Technology Icons Section -->
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-evenly; padding: 10px;">
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="width: 40px; height: 20px;"/>
-    <span style="margin-left: 8px;">HTML5</span>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">CSS3</span>
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">C++</span>
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Python</span>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" alt="R" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">R</span>
+    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" alt="R" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">JavaScript</span>
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Heroku</span>
+    <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Firebase</span>
+    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Google Cloud</span>
+    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Anaconda</span>
+    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Django</span>
+    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">FastAPI</span>
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Flask</span>
+    <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">OpenCV</span>
+    <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">MySQL</span>
+    <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">SQLite</span>
+    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Postgres</span>
+    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">SQL Server</span>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Proto.io-161637?style=flat-square&logo=proto.io&logoColor=00e5ff" alt="Proto.io" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Proto.io</span>
+    <img src="https://img.shields.io/badge/Proto.io-161637?style=flat-square&logo=proto.io&logoColor=00e5ff" alt="Proto.io" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black" alt="Sketch" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Sketch</span>
+    <img src="https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black" alt="Sketch" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" alt="Keras" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Keras</span>
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" alt="Keras" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Matplotlib</span>
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">NumPy</span>
+    <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Pandas</span>
+    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Plotly</span>
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">PyTorch</span>
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">scikit-learn</span>
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">SciPy</span>
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">TensorFlow</span>
-  </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Docker</span>
-  </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Portfolio</span>
-  </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" style="width: 40px; height: auto;"/>
-    <span style="margin-left: 8px;">Postman</span>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="width: 60px; height: 25px; border-radius: 5px;"/>
   </div>
 </div>
 
