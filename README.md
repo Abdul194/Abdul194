@@ -50,47 +50,6 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
   
 </div>
 
-#### <span style="">Connect with me</span>
-
-<table markdown="1">
-  <tr>
-    <td>
-      <a href="https://yourwebsite.com" style="text-decoration: none; color: inherit;">
-        <img src="https://img.icons8.com/ios-filled/20/000000/domain.png" alt="Website Icon" style="vertical-align: middle; margin-right: 8px;"/>
-        <span>Website</span>
-      </a>
-    </td>
-    <td style="text-align: center;">&#8226;</td>
-    <td>
-      <a href="https://youtube.com/yourchannel" style="text-decoration: none; color: inherit;">
-        <img src="https://img.icons8.com/ios-filled/20/FF0000/youtube-play.png" alt="YouTube Icon" style="vertical-align: middle; margin-right: 8px;"/>
-        <span>YouTube</span>
-      </a>
-    </td>
-    <td style="text-align: center;">&#8226;</td>
-    <td>
-      <a href="https://www.linkedin.com/in/yourprofile" style="text-decoration: none; color: inherit;">
-        <img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png" alt="LinkedIn Icon" style="vertical-align: middle; margin-right: 8px;"/>
-        <span>LinkedIn</span>
-      </a>
-    </td>
-    <td style="text-align: center;">&#8226;</td>
-    <td>
-      <a href="https://instagram.com/yourprofile" style="text-decoration: none; color: inherit;">
-        <img src="https://img.icons8.com/ios-filled/20/E4405F/instagram-new.png" alt="Instagram Icon" style="vertical-align: middle; margin-right: 8px;"/>
-        <span>Instagram</span>
-      </a>
-    </td>
-    <td style="text-align: center;">&#8226;</td>
-    <td>
-      <a href="https://twitter.com/yourusername" style="text-decoration: none; color: inherit;">
-        <img src="https://img.icons8.com/ios-filled/20/1DA1F2/twitter.png" alt="Twitter Icon" style="vertical-align: middle; margin-right: 8px;"/>
-        <span>Twitter</span>
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 
 ## 💻 Tech Stack
