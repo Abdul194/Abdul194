@@ -56,7 +56,7 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 <!-- Technology Icons Section -->
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-evenly; padding: 10px;">
   <div style="display: flex; align-items: center; margin: 5px;">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="width: 40px; height: auto;"/>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="width: 40px; height: 20px;"/>
     <span style="margin-left: 8px;">HTML5</span>
   </div>
   <div style="display: flex; align-items: center; margin: 5px;">
