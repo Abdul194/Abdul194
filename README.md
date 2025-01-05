@@ -54,47 +54,6 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 </br>
 
 ## 💻 Technical Proficiencies
-<table style="border-collapse: collapse; width: 100%; max-width: 600px;">
-  <tr>
-    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Data Science Frameworks & Libraries:</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">
-      OpenCV, Keras, Matplotlib, NumPy, Pandas, Plotly, PyTorch, scikit-learn, TensorFlow, SciPy
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Languages:</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">
-      HTML5, CSS3, C++, Python, R, JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Web Frameworks:</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">
-      React, Django, FastAPI, Flask
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Databases:</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">
-      MySQL, SQLite, Postgres, Microsoft SQL Server
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Tools & Platforms:</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">
-      Docker, Postman, Anaconda
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Cloud Services:</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">
-      Heroku, Firebase, Google Cloud, Google Colab
-    </td>
-  </tr>
-</table>
-
-
-</br>
 
 **Data Science Frameworks & Libraries:** OpenCV, Keras, Matplotlib, NumPy, Pandas, Plotly, PyTorch, scikit-learn, TensorFlow, SciPy
 
@@ -179,37 +138,58 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
   <tr>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">1</td>
     <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Comprehensive comparative genomic and microsatellite analysis of SARS, MERS, BAT‐SARS, and COVID‐19 coronaviruses</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2018</td>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">2021</td>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
   </tr>
 
   <tr>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">2</td>
-    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Comprehensive comparative genomic and microsatellite analysis of SARS, MERS, BAT‐SARS, and COVID‐19 coronaviruses</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2018</td>
+    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Leveraging coverless image steganography to hide secret information by generating anime characters using GAN</td>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">2024</td>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
   </tr>
 
   <tr>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">3</td>
-    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Comprehensive comparative genomic and microsatellite analysis of SARS, MERS, BAT‐SARS, and COVID‐19 coronaviruses</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2018</td>
+    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">A 16× 16 Patch-Based Deep Learning Model for the Early Prognosis of Monkeypox from Skin Color Images</td>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">2024</td>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
   </tr>
 
   <tr>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">4</td>
-    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Comprehensive comparative genomic and microsatellite analysis of SARS, MERS, BAT‐SARS, and COVID‐19 coronaviruses</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2018</td>
+    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Enhancing Weather Scene Identification Using Vision Transformer</td>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">2024</td>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
     <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
   </tr>
+
+  <tr>
+    <th colspan=5><h3>Conference Publications</h3></th>
+  </tr>
+
+  <tr>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">4</td>
+    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Genome Scale Phylogenetic Analysis Differentiates SARS-CoV-2 Strains in Pakistani and Indian COVID-19 Patients with and without Travel History</td>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">2021</td>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">4</td>
+    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">DeepFireNet-A Light-Weight Neural Network for Fire-Smoke Detection</td>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">2021</td>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
+    <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
+  </tr>
+  
 </table>
 
-
+</br>
 
 ## 📊 GitHub Statistics and Contributions
 <br clear="both">
