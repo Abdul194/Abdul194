@@ -122,42 +122,43 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
   </tr>
   
   <tr>
-    <th style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">#</th>
-    <th style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Title</th>
-    <th style="vertical-align: middle; padding: 5px; text-align: left;">Publication Year</th>
-    <th style="vertical-align: middle; padding: 5px; text-align: left;">Impact Factor</th>
-    <th style="vertical-align: middle; padding: 5px; text-align: left;">Category</th>
+    <th align="center", style="font-weight: bold; vertical-align: middle;">#</th>
+    <th style="font-weight: bold; vertical-align: middle; text-align: left;">Title</th>
+    <th align="center", style="vertical-align: middle;">Publication Year</th>
+    <th align="center", style="vertical-align: middle;">Impact Factor</th>
+    <th align="center", style="vertical-align: middle;">Category</th>
   </tr>
+  
   <tr>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">1</td>
+    <td align="center", style="vertical-align: middle;">1</td>
     <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Comprehensive comparative genomic and microsatellite analysis of SARS, MERS, BAT‐SARS, and COVID‐19 coronaviruses</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2021</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
+    <td align="center", style="vertical-align: middle;">2021</td>
+    <td align="center", style="vertical-align: middle;">2.7</td>
+    <td align="center", style="vertical-align: middle;">X (Gold)</td>
   </tr>
 
   <tr>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2</td>
+    <td align="center", style="vertical-align: middle;">2</td>
     <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Leveraging coverless image steganography to hide secret information by generating anime characters using GAN</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2024</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
+    <td align="center", style="vertical-align: middle;">2024</td>
+    <td align="center", style="vertical-align: middle;">2.7</td>
+    <td align="center", style="vertical-align: middle;">X (Gold)</td>
   </tr>
 
   <tr>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">3</td>
+    <td align="center", style="vertical-align: middle;">3</td>
     <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">A 16× 16 Patch-Based Deep Learning Model for the Early Prognosis of Monkeypox from Skin Color Images</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2024</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
+    <td align="center", style="vertical-align: middle;">2024</td>
+    <td align="center", style="vertical-align: middle;">2.7</td>
+    <td align="center", style="vertical-align: middle;">X (Gold)</td>
   </tr>
 
   <tr>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">4</td>
-    <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Enhancing Weather Scene Identification Using Vision Transformer</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2024</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
+    <td align="center", style="vertical-align: middle;">4</td>
+    <td style="font-weight: bold; vertical-align: middle;">Enhancing Weather Scene Identification Using Vision Transformer</td>
+    <td align="center", style="vertical-align: middle;">2024</td>
+    <td align="center", style="vertical-align: middle;">2.7</td>
+    <td align="center", style="vertical-align: middle;">X (Gold)</td>
   </tr>
 
   <tr>
@@ -165,19 +166,19 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
   </tr>
 
   <tr>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">4</td>
+    <td align="center", style="vertical-align: middle;">4</td>
     <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Genome Scale Phylogenetic Analysis Differentiates SARS-CoV-2 Strains in Pakistani and Indian COVID-19 Patients with and without Travel History</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2021</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
+    <td align="center", style="vertical-align: middle;">2021</td>
+    <td align="center", style="vertical-align: middle;">2.7</td>
+    <td align="center", style="vertical-align: middle;">X (Gold)</td>
   </tr>
 
   <tr>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">4</td>
+    <td align="center", style="vertical-align: middle;">4</td>
     <td style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">DeepFireNet-A Light-Weight Neural Network for Fire-Smoke Detection</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2021</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">2.7</td>
-    <td style="vertical-align: middle; padding: 5px; text-align: left;">X (Gold)</td>
+    <td align="center", style="vertical-align: middle;">2021</td>
+    <td align="center", style="vertical-align: middle;">2.7</td>
+    <td align="center", style="vertical-align: middle;">X (Gold)</td>
   </tr>
   
 </table>
