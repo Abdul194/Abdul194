@@ -166,6 +166,10 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 
 <table style="border-collapse: collapse; width: 100%; max-width: 600px;">
   <tr>
+    <th colspan=5><h3>Journal Publications</h3></th>
+  </tr>
+  
+  <tr>
     <th style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">#</th>
     <th style="font-weight: bold; vertical-align: middle; padding: 5px; text-align: left;">Title</th>
     <th style="vertical-align: middle; padding: 5px; text-align: left;">Publication Year</th>
