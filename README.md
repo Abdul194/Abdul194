@@ -116,13 +116,6 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 
 ## Publications
 
-<span style="color:red;">★ &nbsp;Comprehensive comparative genomic and microsatellite analysis of SARS, MERS, BAT‐SARS, and COVID‐19 coronaviruses [Link]("")</span> </br>
-<span style="color:red;">★ &nbsp;Leveraging coverless image steganography to hide secret information by generating anime characters using GAN [Link]("")</span> </br>
-<span style="color:red;">★ &nbsp;A 16× 16 Patch-Based Deep Learning Model for the Early Prognosis of Monkeypox from Skin Color Images [Link]("")</span> </br>
-<span style="color:red;">★ &nbsp;Genome Scale Phylogenetic Analysis Differentiates SARS-CoV-2 Strains in Pakistani and Indian COVID-19 Patients with and without Travel History [Link]("")</span> </br>
-
-</br>
-
 <table style="border-collapse: collapse; width: 100%; max-width: 600px;">
   <tr>
     <th colspan=5><h3>Journal Publications</h3></th>
@@ -199,7 +192,6 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
   <img src="https://streak-stats.demolab.com?user=Abdul194&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 </br>
-
 
 
 ## ✍️ Dev Quote
