@@ -199,8 +199,4 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </div>
 
-<div align="center">
-  <img src="" alt="Snake animation" />
-</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
